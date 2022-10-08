@@ -1,0 +1,13 @@
+
+=
+java:S1604"(Make this anonymous inner class a lambda(£·®
+u
+java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(£èÆıÿÿÿÿ8Õ¨ÛÄ»0
+O
+java:S1444"-Make this "public static counter" field final(£èÆıÿÿÿÿ8Ö¨ÛÄ»0
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+K
+java:S1854"6Remove this useless assignment to local variable "t1".(£·®
+<
+java:S1481"'Remove this unused "t1" local variable.(£·®
